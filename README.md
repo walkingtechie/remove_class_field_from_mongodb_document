@@ -1,0 +1,1 @@
+# remove_class_field_from_mongodb_document
